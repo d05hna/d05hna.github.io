@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Benjamin Doshna's Personal Site
+title: Ben Doshna
 email: bdoshna3@gatech.edu
 description: >- # this means to ignore newlines until "baseurl:"
   I am Quantitative Biosciences PhD Candidate working with Dr. Simon Spongerg at Georgia Tech. I study how nervous systems must coordinate large sets of motor neurons and muscles to control fast, agile locomotion."
@@ -58,8 +58,9 @@ plugins:
 
 author:
   name   : "Ben Doshna"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/brickhead.png"
   bio    : "PhD Candiate @ Georgia Tech"
+  links : 
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/Doshna_"
